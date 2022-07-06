@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+  .link1{
+    
+    background-color: saddlebrown;
+    color: white;
+    padding: 20px;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+.ul1 span{
+    font-family: 'Dancing Script', cursive;
+color: yellow;}
+.ul1{
+    justify-content: space-between;
+    font-size: 50;
+}
+ div{
+    background-color: saddlebrown;
+ }
+ .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .red {
+    background-color: red;
+  }
+  .link1 a:hover {
+    background-color: yellow;
+  }
+  .vitae{
+    justify-content: center;
+    color: green;
+   font-size: 40;
+  }
+  .experience{ 
+    color: brown;
+    font-size: 30;
+  }
+  .core{
+    
+    background-color: yellow;
+    justify-content: center;
+  }
+  .video{
+    justify-content: center;
+  }
+  body{
+    background-image: url("./acia\ prayers.jpg");
+   background-size: cover;
+    
+  }
+  
+  
+  .education{
+    background-color: blueviolet;
+    
+  }
